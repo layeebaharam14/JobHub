@@ -191,7 +191,7 @@ Skill comparison is case-insensitive.
 The complete workflow was successfully tested:
 - Candidate registration
 - Recruiter registration
-- Company registration
+- Company setup
 - Job posting
 - Job search
 - Job application
