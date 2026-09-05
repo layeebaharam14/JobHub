@@ -235,3 +235,7 @@ Total Persons Created: 2
 
 Core Java Training Project
 2026
+
+---
+
+⭐ JobHub — Simplifying Recruitment. Empowering Careers.
